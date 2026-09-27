@@ -4,6 +4,9 @@
     "seed": "9147786865142381537",
     "notes": "structureless ow, bolan into cave with a 17 minute enter with 11 gp, housing with visible fortress about 2 pearls away. 33 minutes end enter; open front diagonal small boy -> 40 minute elytra. sloppy midgame start. 9 tnt at 3 hours. 2 for 10 on skulls and then 3 for 95 or so. Very awkward 2 birds at the end of 4:30 night leaving no time to get sweet dreams",
     "elytraKm": 343.2,
-    "screenshot": "screenshots/1.png"
+    "screenshot": "screenshots/1.png",
+    "notIntentionalDeaths": [
+      1
+    ]
   }
 }
