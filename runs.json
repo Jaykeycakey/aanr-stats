@@ -16,5 +16,14 @@
     "date": "2026-09-30",
     "seed": "-2031318052527270972",
     "screenshot": "screenshots/3.png"
+  },
+  "4": {
+    "date": "2026-10-02",
+    "seed": "-2726835322264093365",
+    "notes": "standard any% really. nav of doom and despair. fast midgame minus bamboo with pandas done post-endgame. On pace for sub 4 then a lot of both micro and macro was immensely screwed up, 2 debris splits because of not picking up a shulker with the other tnt in it, ran out of tnt at 16debris. worst debris split of all time no questions asked",
+    "notIntentionalDeaths": [
+      2,
+      3
+    ]
   }
 }
