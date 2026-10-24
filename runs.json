@@ -41,6 +41,7 @@
   "7": {
     "date": "2026-10-10",
     "seed": "6386414630183041313",
-    "screenshot": "screenshots/7.png"
+    "screenshot": "screenshots/7.png",
+    "countAnyway": true
   }
 }
