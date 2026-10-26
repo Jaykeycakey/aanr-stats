@@ -53,5 +53,15 @@
     "seed": "6754741794211157511",
     "notes": "lost like 15 minutes to endermite. threw 174 total pearls, consumed 2 god apples, 20 gapples, 25 bread, and then was forced to eat 250 chorus to keep pearling\nft hdwgh choke to conduit not opening and not realising due to incredible pace, roughly 3:40 if things went a little better but it happens",
     "screenshot": "screenshots/8.png"
+  },
+  "9": {
+    "date": "2026-10-26",
+    "seed": "-4063699867854036640",
+    "notes": "just really badly rolled on a lot of things. segmented run, so lost nin bot coords and had to remeasure for sh, eye broke and had to get another rod later. death killing the dragon because it blew up my smithing table sob. died again going to sh with wood. had to strip mine for last 5/6 debris. very poorly played end game",
+    "notIntentionalDeaths": [
+      1,
+      2
+    ],
+    "screenshot": "screenshots/9.png"
   }
 }
